@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Typography">
+        <item name="android:letterSpacing">-0.02</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="Typography.Body_Regular_14">
+        <item name="fontFamily">@font/pretendard_regular</item>
+        <item name="android:textSize">14dp</item>
+        <item name="android:lineSpacingExtra">3dp</item>
+        <item name="android:paddingTop">1.5dp</item>
+        <item name="android:paddingBottom">1.5dp</item>
+    </style>
+
+    <style name="Typography.Body_Medium_14">
+        <item name="fontFamily">@font/pretendard_medium</item>
+        <item name="android:textSize">14dp</item>
+        <item name="android:lineSpacingExtra">3dp</item>
+        <item name="android:paddingTop">1.5dp</item>
+        <item name="android:paddingBottom">1.5dp</item>
+    </style>
+
+    <style name="Typography.Body_SemiBold_14">
+        <item name="fontFamily">@font/pretendard_semi_bold</item>
+        <item name="android:textSize">14dp</item>
+        <item name="android:lineSpacingExtra">3dp</item>
+        <item name="android:paddingTop">1.5dp</item>
+        <item name="android:paddingBottom">1.5dp</item>
+    </style>
+
+    <style name="Typography.Body_Bold_14">
+        <item name="fontFamily">@font/pretendard_bold</item>
+        <item name="android:textSize">14dp</item>
+        <item name="android:lineSpacingExtra">3dp</item>
+        <item name="android:paddingTop">1.5dp</item>
+        <item name="android:paddingBottom">1.5dp</item>
+    </style>
+
+</resources>
