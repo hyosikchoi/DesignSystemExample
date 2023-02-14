@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <merge
+        android:gravity="center"
+        tools:background="@drawable/bg_button_type_primary"
+        tools:parentTag="androidx.appcompat.widget.LinearLayoutCompat"
+        >
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/iv_left_icon"
+            android:layout_width="16dp"
+            android:layout_height="16dp"
+            android:layout_marginEnd="4dp"
+            tools:src="@drawable/ic_button_left_icon_size_small"
+            tools:tint="@color/white" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tvButton"
+            style="@style/Typography.Body_Medium_14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Button"
+            tools:textColor="@color/white"/>
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/iv_right_icon"
+            android:layout_width="16dp"
+            android:layout_height="16dp"
+            android:layout_marginStart="4dp"
+            tools:src="@drawable/ic_button_right_icon_size_small"
+            tools:tint="@color/white" />
+
+    </merge>
+
+
+</layout>
