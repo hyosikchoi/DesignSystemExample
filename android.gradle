@@ -1,12 +1,12 @@
 def isApplicationPlugin = pluginManager.hasPlugin("com.android.application")
 
 android {
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
         if(isApplicationPlugin) applicationId "com.hyosik.android.designsystemex"
         minSdk 24
-        targetSdk 32
+        targetSdk 33
         versionCode 1
         versionName "1.0.0"
 
