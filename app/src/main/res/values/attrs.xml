@@ -19,4 +19,12 @@
 
     </declare-styleable>
 
+    <declare-styleable name="CheckBox">
+        <attr name="checkbox_size" format="enum">
+            <enum name="small" value="0"/>
+            <enum name="medium" value="1"/>
+            <enum name="large" value="2"/>
+        </attr>
+    </declare-styleable>
+
 </resources>
