@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 체크박스 비활성화 / 해제 상태 -->
+    <item android:drawable="@drawable/ic_checkbox_checked_false_state_disabled_size_large" android:state_checked="false" android:state_enabled="false" />
+    <!-- 체크박스 비활성화 / 선택 상태 -->
+    <item android:drawable="@drawable/ic_checkbox_checked_true_state_disabled_size_large" android:state_checked="true" android:state_enabled="false" />
+
+    <!-- 체크박스 해제 / 눌린 상태 -->
+    <item android:drawable="@drawable/ic_checkbox_checked_false_state_pressed_size_large" android:state_checked="false" android:state_pressed="true" />
+    <!-- 체크박스 선택 / 눌린 상태 -->
+    <item android:drawable="@drawable/ic_checkbox_checked_true_state_pressed_size_large" android:state_checked="true" android:state_pressed="true" />
+
+    <!-- 체크박스 해제 상태 -->
+    <item android:drawable="@drawable/ic_checkbox_checked_false_state_enabled_size_large" android:state_checked="false" />
+    <!-- 체크박스 선택 상태 -->
+    <item android:drawable="@drawable/ic_checkbox_checked_true_state_enabled_size_large" android:state_checked="true" />
+</selector>
