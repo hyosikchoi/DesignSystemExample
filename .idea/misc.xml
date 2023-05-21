@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/DesignSystemEx/app/src/main/res/drawable/aa.xml" value="0.2525" />
         <entry key="..\:/DesignSystemEx/app/src/main/res/drawable/bg_button_type_primary.xml" value="0.219" />
         <entry key="..\:/DesignSystemEx/app/src/main/res/drawable/bg_button_type_primary_disabled.xml" value="0.233" />
         <entry key="..\:/DesignSystemEx/app/src/main/res/drawable/bg_button_type_secondary.xml" value="0.219" />
@@ -13,9 +14,23 @@
         <entry key="..\:/DesignSystemEx/app/src/main/res/drawable/ic_button_right_icon_size_large.xml" value="0.234" />
         <entry key="..\:/DesignSystemEx/app/src/main/res/drawable/ic_button_right_icon_size_medium.xml" value="0.234" />
         <entry key="..\:/DesignSystemEx/app/src/main/res/drawable/ic_button_right_icon_size_small.xml" value="0.234" />
+        <entry key="..\:/DesignSystemEx/app/src/main/res/drawable/ic_checkbox_checked_false_state_disabled_size_large.xml" value="0.2535" />
+        <entry key="..\:/DesignSystemEx/app/src/main/res/drawable/ic_checkbox_checked_false_state_disabled_size_small.xml" value="0.2535" />
+        <entry key="..\:/DesignSystemEx/app/src/main/res/drawable/ic_checkbox_checked_false_state_enabled_size_medium.xml" value="0.2525" />
+        <entry key="..\:/DesignSystemEx/app/src/main/res/drawable/ic_checkbox_checked_false_state_enabled_size_small.xml" value="0.2515" />
+        <entry key="..\:/DesignSystemEx/app/src/main/res/drawable/ic_checkbox_checked_true_state_enabled_size_small.xml" value="0.2535" />
+        <entry key="..\:/DesignSystemEx/app/src/main/res/drawable/ic_checkbox_checked_true_state_pressed_size_large.xml" value="0.2535" />
+        <entry key="..\:/DesignSystemEx/app/src/main/res/drawable/ic_checkbox_checked_true_state_pressed_size_medium.xml" value="0.2535" />
+        <entry key="..\:/DesignSystemEx/app/src/main/res/drawable/ic_checkbox_checked_true_state_pressed_size_small.xml" value="0.2535" />
         <entry key="..\:/DesignSystemEx/app/src/main/res/drawable/ic_fds_button_left_icon_size_large.xml" value="0.234" />
+        <entry key="..\:/DesignSystemEx/app/src/main/res/drawable/ic_fds_checkbox_checked_false_state_pressed_size_large.xml" value="0.2535" />
+        <entry key="..\:/DesignSystemEx/app/src/main/res/drawable/selector_checkbox_size_medium.xml" value="0.2535" />
+        <entry key="..\:/DesignSystemEx/app/src/main/res/drawable/selector_checkbox_size_small.xml" value="0.2525" />
+        <entry key="..\:/DesignSystemEx/app/src/main/res/drawable/selector_fds_checkbox_size_large.xml" value="0.2535" />
+        <entry key="..\:/DesignSystemEx/app/src/main/res/drawable/ss.xml" value="0.2525" />
         <entry key="..\:/DesignSystemEx/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/DesignSystemEx/app/src/main/res/layout/design_button.xml" value="0.25" />
+        <entry key="..\:/DesignSystemEx/app/src/main/res/layout/design_checkbox.xml" value="0.246875" />
       </map>
     </option>
   </component>
